@@ -1,1 +1,0 @@
-jQuery(".corporateHide").remove();
